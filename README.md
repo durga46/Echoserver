@@ -1,4 +1,5 @@
-# EX.NO : 07
+## EX.NO : 01
+## DATE :17.08.2023
 # <p align="center"> Echoserver</p>
 
 
